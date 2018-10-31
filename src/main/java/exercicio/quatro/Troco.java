@@ -1,4 +1,4 @@
-package exercicio.tres;
+package exercicio.quatro;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package exercicio.tres;
+package exercicio.quatro;
 
 public class Nota {
 	private final Integer valor;
