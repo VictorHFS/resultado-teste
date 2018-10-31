@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a32cfa0-ce62-4371-9eab-1ce5cbe21330" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/exercicio/cinco/TextoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/exercicio/dois/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/exercicio/dois/EscadaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/test/java/exercicio/dois/EscadaTeste.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,26 +88,26 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="3494" />
+          <entry key="java" value="4758" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3494" />
+          <entry key="JAVA" value="4758" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="21" />
+          <entry key="java" value="24" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="24" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -118,91 +119,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/quatro/Nota.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="15">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding>
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/quatro/Troco.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="22" column="78" selection-start-line="22" selection-start-column="78" selection-end-line="22" selection-end-column="78" />
-              <folding>
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/quatro/TrocoException.java">
+        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/TextoException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="113" selection-start-line="4" selection-start-column="113" selection-end-line="4" selection-end-column="113" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/quatro/Notas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+              <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/quatro/TrocoTeste.java">
+        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="127">
+              <caret line="11" column="76" lean-forward="true" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/dois/EscadaTeste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -259,6 +208,9 @@
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/quatro/Troco.java" />
         <option value="$PROJECT_DIR$/../src/test/java/exercicio/quatro/TrocoTeste.java" />
         <option value="$PROJECT_DIR$/../src/test/java/exercicio/dois/EscadaTeste.java" />
+        <option value="$PROJECT_DIR$/../src/main/java/exercicio/cinco/TextoException.java" />
+        <option value="$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java" />
+        <option value="$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java" />
       </list>
     </option>
   </component>
@@ -321,15 +273,6 @@
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicio" type="462c0819:PsiDirectoryNode" />
-              <item name="dois" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -355,7 +298,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541027560596" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541029180549" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -371,6 +314,7 @@
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="exercicio.cinco" />
       <recent name="exercicio.quatro" />
       <recent name="exercicio.dois" />
       <recent name="exercicio" />
@@ -388,89 +332,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.exercicio in resultado-teste">
-    <configuration name="All in resultado-teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OcorrenciaTeste">
+    <configuration name="OcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio.cinco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercicio.cinco" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrocoTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OcorrenciaTeste.encontrarDuasOcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio.quatro.*" />
+          <option name="PATTERN" value="exercicio.cinco.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercicio.quatro" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.quatro.TrocoTeste" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrocoTeste.trocarValorNegativoTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="resultado-teste" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio.quatro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercicio.quatro" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.quatro.TrocoTeste" />
-      <option name="METHOD_NAME" value="trocarValorNegativoTeste" />
+      <option name="PACKAGE_NAME" value="exercicio.cinco" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="METHOD_NAME" value="encontrarDuasOcorrenciaTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrocoTeste.trocarZeroTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio.quatro.*" />
+          <option name="PATTERN" value="exercicio.cinco.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercicio.quatro" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.quatro.TrocoTeste" />
-      <option name="METHOD_NAME" value="trocarZeroTeste" />
+      <option name="PACKAGE_NAME" value="exercicio.cinco" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="METHOD_NAME" value="encontrarQuatroOcorrenciasTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio in resultado-teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio.*" />
+          <option name="PATTERN" value="exercicio.cinco.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercicio" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="exercicio.cinco" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="METHOD_NAME" value="encontrarTresOcorrenciasTeste" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OcorrenciaTeste.encontrarUmaOcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="resultado-teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio.cinco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercicio.cinco" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="METHOD_NAME" value="encontrarUmaOcorrenciaTeste" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TrocoTeste" />
-      <item itemvalue="JUnit.TrocoTeste.trocarZeroTeste" />
-      <item itemvalue="JUnit.TrocoTeste.trocarValorNegativoTeste" />
-      <item itemvalue="JUnit.All in resultado-teste" />
-      <item itemvalue="JUnit.exercicio in resultado-teste" />
+      <item itemvalue="JUnit.OcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
+      <item itemvalue="JUnit.OcorrenciaTeste.encontrarDuasOcorrenciaTeste" />
+      <item itemvalue="JUnit.OcorrenciaTeste.encontrarTresOcorrenciasTeste" />
+      <item itemvalue="JUnit.OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
+      <item itemvalue="JUnit.OcorrenciaTeste" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.exercicio in resultado-teste" />
-        <item itemvalue="JUnit.All in resultado-teste" />
-        <item itemvalue="JUnit.TrocoTeste" />
-        <item itemvalue="JUnit.TrocoTeste.trocarValorNegativoTeste" />
-        <item itemvalue="JUnit.TrocoTeste.trocarZeroTeste" />
+        <item itemvalue="JUnit.OcorrenciaTeste" />
+        <item itemvalue="JUnit.OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
+        <item itemvalue="JUnit.OcorrenciaTeste.encontrarTresOcorrenciasTeste" />
+        <item itemvalue="JUnit.OcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
+        <item itemvalue="JUnit.OcorrenciaTeste.encontrarDuasOcorrenciaTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -488,35 +442,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TrocoTeste - 2018.10.31 at 20h 50m 07s.xml">
-      <configuration name="TrocoTeste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarDuasOcorrenciaTeste - 2018.10.31 at 21h 28m 44s.xml">
+      <configuration name="OcorrenciaTeste.encontrarDuasOcorrenciaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste_trocarValorInvalido - 2018.10.31 at 20h 50m 21s.xml">
-      <configuration name="TrocoTeste.trocarValorInvalido" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarUmaOcorrenciaTeste - 2018.10.31 at 21h 28m 48s.xml">
+      <configuration name="OcorrenciaTeste.encontrarUmaOcorrenciaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste_trocarValorInvalido - 2018.10.31 at 20h 50m 39s.xml">
-      <configuration name="TrocoTeste.trocarValorInvalido" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarUmaOcorrenciaTeste - 2018.10.31 at 21h 29m 08s.xml">
+      <configuration name="OcorrenciaTeste.encontrarUmaOcorrenciaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste - 2018.10.31 at 20h 56m 19s.xml">
-      <configuration name="TrocoTeste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 30m 50s.xml">
+      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste - 2018.10.31 at 21h 00m 41s.xml">
-      <configuration name="TrocoTeste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 31m 23s.xml">
+      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste_trocarZeroTeste - 2018.10.31 at 21h 04m 35s.xml">
-      <configuration name="TrocoTeste.trocarZeroTeste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 32m 09s.xml">
+      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste - 2018.10.31 at 21h 05m 32s.xml">
-      <configuration name="TrocoTeste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 32m 39s.xml">
+      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste_trocarValorNegativoTeste - 2018.10.31 at 21h 06m 34s.xml">
-      <configuration name="TrocoTeste.trocarValorNegativoTeste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste_encontrarQuatroOcorrenciasTeste - 2018.10.31 at 21h 32m 51s.xml">
+      <configuration name="OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrocoTeste - 2018.10.31 at 21h 06m 43s.xml">
-      <configuration name="TrocoTeste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste - 2018.10.31 at 21h 37m 16s.xml">
+      <configuration name="OcorrenciaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_resultado-teste - 2018.10.31 at 21h 10m 41s.xml">
-      <configuration name="All in resultado-teste" configurationId="JUnit" />
+    <history-entry file="OcorrenciaTeste - 2018.10.31 at 21h 39m 10s.xml">
+      <configuration name="OcorrenciaTeste" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -532,7 +486,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50121653" side_tool="true" weight="0.24980047" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2055465" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36378467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,7 +494,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -780,9 +734,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/quatro/TrocoTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/dois/EscadaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/quatro/Notas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="300">
           <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -834,22 +810,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/quatro/TrocoTeste.java">
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="127">
+          <caret line="11" column="76" lean-forward="true" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/dois/EscadaTeste.java">
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/TextoException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        <state relative-caret-position="60">
+          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
