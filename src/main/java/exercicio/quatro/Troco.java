@@ -1,6 +1,12 @@
+package exercicio.quatro;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class Troco {
-	private static final List<Notas> notasDiponiveis = 
-		Arrys.tolist(
+	private static final List<Nota> notasDisponiveis =
+		Arrays.asList(
 		new Nota[]{
 			Nota.criar(100), 
 			Nota.criar(50), 

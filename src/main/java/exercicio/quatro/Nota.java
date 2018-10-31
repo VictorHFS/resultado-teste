@@ -1,4 +1,4 @@
-
+package exercicio.quatro;
 
 public class Nota {
 	private final Integer valor;
@@ -6,11 +6,13 @@ public class Nota {
 		this.valor = valor;
 	}
 
+	public static Nota criar(int i) {return new Nota(i);}
+
 	public boolean ehMenor(Integer outro) {
 		return valor <= outro;
 	}
 
 	public Integer getValor() {
-		reutnr this.valor;
+		return this.valor;
 	}
 }
