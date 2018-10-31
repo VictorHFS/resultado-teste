@@ -42,4 +42,15 @@ public class Lista{
     }
 
     public int size(){ return lista.length;}
+
+    @Override
+    public String toString() {
+        StringBuilder builder = new StringBuilder("[");
+        for(Integer valor: lista) {
+            builder.append(valor).append(",");
+        }
+        builder.deleteCharAt(builder.length()-1);
+        builder.append("]");
+        return builder.toString();
+    }
 }
