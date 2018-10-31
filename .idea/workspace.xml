@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a32cfa0-ce62-4371-9eab-1ce5cbe21330" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,23 +88,25 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="1298" />
+          <entry key="java" value="2321" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1298" />
+          <entry key="JAVA" value="2321" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="14" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="14" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -110,11 +114,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#149#150#0" expanded="true" />
@@ -123,6 +127,31 @@
                 <element signature="e#895#896#0" expanded="true" />
                 <element signature="e#930#931#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -172,7 +201,9 @@
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/quatro/Nota.java" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/quatro/Troco.java" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/Valor.java" />
+        <option value="$PROJECT_DIR$/../pom.xml" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java" />
+        <option value="$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java" />
       </list>
     </option>
   </component>
@@ -227,7 +258,20 @@
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercicio" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -235,7 +279,7 @@
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercicio" type="462c0819:PsiDirectoryNode" />
               <item name="tres" type="462c0819:PsiDirectoryNode" />
@@ -248,7 +292,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540952045856" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541025116333" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -280,91 +324,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in resultado-teste">
-    <configuration name="All in resultado-teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ListaTeste.removerElementosMultiplosTeste">
+    <configuration name="ListaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio.tres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercicio.tres" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.tres.ListaTeste" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidadorDeEscadaTeste.alinhamentoInvalidoDoisTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListaTeste.listaCheiaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio.dois.*" />
+          <option name="PATTERN" value="exercicio.tres.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercicio.dois" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.dois.ValidadorDeEscadaTeste" />
-      <option name="METHOD_NAME" value="alinhamentoInvalidoDoisTeste" />
+      <option name="PACKAGE_NAME" value="exercicio.tres" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.tres.ListaTeste" />
+      <option name="METHOD_NAME" value="listaCheiaTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidadorDeEscadaTeste.alinhamentoInvalidoTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListaTeste.listaVaziaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio.dois.*" />
+          <option name="PATTERN" value="exercicio.tres.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercicio.dois" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.dois.ValidadorDeEscadaTeste" />
-      <option name="METHOD_NAME" value="alinhamentoInvalidoTeste" />
+      <option name="PACKAGE_NAME" value="exercicio.tres" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.tres.ListaTeste" />
+      <option name="METHOD_NAME" value="listaVaziaTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidadorDeEscadaTeste.linhaNaoAlinhadaADireitaDoisTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListaTeste.removerElementosMultiplosTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio.dois.*" />
+          <option name="PATTERN" value="exercicio.tres.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercicio.dois" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.dois.ValidadorDeEscadaTeste" />
-      <option name="METHOD_NAME" value="linhaNaoAlinhadaADireitaDoisTeste" />
+      <option name="PACKAGE_NAME" value="exercicio.tres" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.tres.ListaTeste" />
+      <option name="METHOD_NAME" value="removerElementosMultiplosTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio.dois in resultado-teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListaTeste.removerOElementoTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio.dois.*" />
+          <option name="PATTERN" value="exercicio.tres.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="exercicio.dois" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="exercicio.tres" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.tres.ListaTeste" />
+      <option name="METHOD_NAME" value="removerOElementoTeste" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ValidadorDeEscadaTeste.alinhamentoInvalidoTeste" />
-      <item itemvalue="JUnit.exercicio.dois in resultado-teste" />
-      <item itemvalue="JUnit.ValidadorDeEscadaTeste.alinhamentoInvalidoDoisTeste" />
-      <item itemvalue="JUnit.ValidadorDeEscadaTeste.linhaNaoAlinhadaADireitaDoisTeste" />
-      <item itemvalue="JUnit.All in resultado-teste" />
+      <item itemvalue="JUnit.ListaTeste.listaCheiaTeste" />
+      <item itemvalue="JUnit.ListaTeste.listaVaziaTeste" />
+      <item itemvalue="JUnit.ListaTeste" />
+      <item itemvalue="JUnit.ListaTeste.removerOElementoTeste" />
+      <item itemvalue="JUnit.ListaTeste.removerElementosMultiplosTeste" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in resultado-teste" />
-        <item itemvalue="JUnit.exercicio.dois in resultado-teste" />
-        <item itemvalue="JUnit.ValidadorDeEscadaTeste.linhaNaoAlinhadaADireitaDoisTeste" />
-        <item itemvalue="JUnit.ValidadorDeEscadaTeste.alinhamentoInvalidoDoisTeste" />
-        <item itemvalue="JUnit.ValidadorDeEscadaTeste.alinhamentoInvalidoTeste" />
+        <item itemvalue="JUnit.ListaTeste.removerElementosMultiplosTeste" />
+        <item itemvalue="JUnit.ListaTeste" />
+        <item itemvalue="JUnit.ListaTeste.listaVaziaTeste" />
+        <item itemvalue="JUnit.ListaTeste.removerOElementoTeste" />
+        <item itemvalue="JUnit.ListaTeste.listaCheiaTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -382,42 +434,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ValidadorDeEscadaTeste - 2018.10.30 at 23h 57m 23s.xml">
-      <configuration name="ValidadorDeEscadaTeste" configurationId="JUnit" />
+    <history-entry file="ListaTeste_listaVaziaTeste - 2018.10.31 at 20h 19m 10s.xml">
+      <configuration name="ListaTeste.listaVaziaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="exercicio_dois_in_resultado-teste - 2018.10.30 at 23h 57m 37s.xml">
-      <configuration name="exercicio.dois in resultado-teste" configurationId="JUnit" />
+    <history-entry file="ListaTeste - 2018.10.31 at 20h 19m 20s.xml">
+      <configuration name="ListaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidadorDeEscadaTeste_alinhamentoInvalidoTeste - 2018.10.30 at 23h 59m 15s.xml">
-      <configuration name="ValidadorDeEscadaTeste.alinhamentoInvalidoTeste" configurationId="JUnit" />
+    <history-entry file="ListaTeste_removerOElementoTeste - 2018.10.31 at 20h 23m 15s.xml">
+      <configuration name="ListaTeste.removerOElementoTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidadorDeEscadaTeste_alinhamentoInvalidoDoisTeste - 2018.10.31 at 00h 00m 03s.xml">
-      <configuration name="ValidadorDeEscadaTeste.alinhamentoInvalidoDoisTeste" configurationId="JUnit" />
+    <history-entry file="ListaTeste_listaVaziaTeste - 2018.10.31 at 20h 23m 21s.xml">
+      <configuration name="ListaTeste.listaVaziaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="exercicio_dois_in_resultado-teste - 2018.10.31 at 00h 00m 20s.xml">
-      <configuration name="exercicio.dois in resultado-teste" configurationId="JUnit" />
+    <history-entry file="ListaTeste_listaVaziaTeste - 2018.10.31 at 20h 23m 22s.xml">
+      <configuration name="ListaTeste.listaVaziaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="exercicio_dois_in_resultado-teste - 2018.10.31 at 00h 05m 00s.xml">
-      <configuration name="exercicio.dois in resultado-teste" configurationId="JUnit" />
+    <history-entry file="ListaTeste - 2018.10.31 at 20h 24m 17s.xml">
+      <configuration name="ListaTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidadorDeEscadaTeste_linhaNaoAlinhadaADireitaDoisTeste - 2018.10.31 at 00h 06m 46s.xml">
-      <configuration name="ValidadorDeEscadaTeste.linhaNaoAlinhadaADireitaDoisTeste" configurationId="JUnit" />
+    <history-entry file="ListaTeste_removerElementosMultiplosTeste - 2018.10.31 at 20h 27m 02s.xml">
+      <configuration name="ListaTeste.removerElementosMultiplosTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="exercicio_dois_in_resultado-teste - 2018.10.31 at 00h 06m 50s.xml">
-      <configuration name="exercicio.dois in resultado-teste" configurationId="JUnit" />
+    <history-entry file="ListaTeste_removerElementosMultiplosTeste - 2018.10.31 at 20h 27m 43s.xml">
+      <configuration name="ListaTeste.removerElementosMultiplosTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_resultado-teste - 2018.10.31 at 00h 07m 56s.xml">
-      <configuration name="All in resultado-teste" configurationId="JUnit" />
+    <history-entry file="ListaTeste_removerElementosMultiplosTeste - 2018.10.31 at 20h 30m 39s.xml">
+      <configuration name="ListaTeste.removerElementosMultiplosTeste" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_resultado-teste - 2018.10.31 at 00h 08m 23s.xml">
-      <configuration name="All in resultado-teste" configurationId="JUnit" />
+    <history-entry file="ListaTeste - 2018.10.31 at 20h 30m 51s.xml">
+      <configuration name="ListaTeste" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25059855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25059855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,7 +478,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29363784" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29363784" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,7 +518,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/exercicio/PrimeiraOcorrencia.java" />
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -663,10 +714,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/junit/framework/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="267" column="23" selection-start-line="267" selection-start-column="23" selection-end-line="267" selection-end-column="23" />
+          <folding>
+            <element signature="e#7861#7862#0" expanded="true" />
+            <element signature="e#7914#7915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        <state relative-caret-position="75">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#149#150#0" expanded="true" />
@@ -674,6 +743,20 @@
             <element signature="e#777#778#0" expanded="true" />
             <element signature="e#895#896#0" expanded="true" />
             <element signature="e#930#931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
           </folding>
         </state>
       </provider>

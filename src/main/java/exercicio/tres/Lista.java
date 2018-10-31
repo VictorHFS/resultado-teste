@@ -3,7 +3,7 @@ package exercicio.tres;
 public class Lista{
     private Integer[] lista;
 
-    public Lista(Integer[] lista) {
+    private Lista(Integer[] lista) {
         this.lista = lista;
     }
     public void remover(Integer valor){
@@ -22,7 +22,8 @@ public class Lista{
     }
 
     private void removerTodasAsOcorrencias(Integer outro) {
-		Integer[] resultado = criarListaUmHaMenos();
+        int ocorrencias = qntdOcorrenciasDe(outro);
+		Integer[] resultado = criarListaMenor(ocorrencias);
 		int qntdAdicionada = 0;
 		for(int indice = 0; indice < lista.length; indice++) {
 		    Integer valor = get(indice);
@@ -33,8 +34,18 @@ public class Lista{
         lista = resultado;
     }
 
-    private Integer[] criarListaUmHaMenos() {
-        return new Integer[lista.length-1];
+    private int qntdOcorrenciasDe(Integer outro) {
+        int ocorrencias = 0;
+        for(Integer valor: lista) {
+            if(valor.equals(outro)) {
+                ocorrencias++;
+            }
+        }
+        return ocorrencias;
+    }
+
+    private Integer[] criarListaMenor(int valor) {
+        return new Integer[lista.length-valor];
     }
 
     public Integer get(int indice) {
@@ -49,8 +60,12 @@ public class Lista{
         for(Integer valor: lista) {
             builder.append(valor).append(",");
         }
-        builder.deleteCharAt(builder.length()-1);
+        if(lista.length > 2) {
+            builder.deleteCharAt(builder.length()-1);
+        }
         builder.append("]");
         return builder.toString();
     }
+
+    public static Lista criar(Integer[] valores) { return new Lista(valores);}
 }
