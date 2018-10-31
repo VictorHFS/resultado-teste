@@ -298,7 +298,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541029180549" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541029325330" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -332,22 +332,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OcorrenciaTeste">
-    <configuration name="OcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in resultado-teste">
+    <configuration name="All in resultado-teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio.cinco.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercicio.cinco" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OcorrenciaTeste.encontrarDuasOcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TextoOcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
@@ -356,14 +350,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="exercicio.cinco" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
-      <option name="METHOD_NAME" value="encontrarDuasOcorrenciaTeste" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.TextoOcorrenciaTeste" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TextoOcorrenciaTeste.encontrarQuatroOcorrenciasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
@@ -372,14 +364,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="exercicio.cinco" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.TextoOcorrenciaTeste" />
       <option name="METHOD_NAME" value="encontrarQuatroOcorrenciasTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TextoOcorrenciaTeste.encontrarTresOcorrenciasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
@@ -388,14 +380,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="exercicio.cinco" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.TextoOcorrenciaTeste" />
       <option name="METHOD_NAME" value="encontrarTresOcorrenciasTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OcorrenciaTeste.encontrarUmaOcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TextoOcorrenciaTeste.encontrarUmaOcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="resultado-teste" />
       <extension name="coverage">
         <pattern>
@@ -404,7 +396,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="exercicio.cinco" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.OcorrenciaTeste" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.TextoOcorrenciaTeste" />
       <option name="METHOD_NAME" value="encontrarUmaOcorrenciaTeste" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -412,19 +404,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.OcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
-      <item itemvalue="JUnit.OcorrenciaTeste.encontrarDuasOcorrenciaTeste" />
-      <item itemvalue="JUnit.OcorrenciaTeste.encontrarTresOcorrenciasTeste" />
-      <item itemvalue="JUnit.OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
-      <item itemvalue="JUnit.OcorrenciaTeste" />
+      <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
+      <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarTresOcorrenciasTeste" />
+      <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
+      <item itemvalue="JUnit.TextoOcorrenciaTeste" />
+      <item itemvalue="JUnit.All in resultado-teste" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OcorrenciaTeste" />
-        <item itemvalue="JUnit.OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
-        <item itemvalue="JUnit.OcorrenciaTeste.encontrarTresOcorrenciasTeste" />
-        <item itemvalue="JUnit.OcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
-        <item itemvalue="JUnit.OcorrenciaTeste.encontrarDuasOcorrenciaTeste" />
+        <item itemvalue="JUnit.All in resultado-teste" />
+        <item itemvalue="JUnit.TextoOcorrenciaTeste" />
+        <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
+        <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarTresOcorrenciasTeste" />
+        <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
       </list>
     </recent_temporary>
   </component>
