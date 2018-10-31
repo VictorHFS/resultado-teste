@@ -14,15 +14,23 @@ public class Troco {
 			Nota.criar(10), 
 			Nota.criar(5), 
 			Nota.criar(2)});
-      
-	public List<Nota> buscarTroco(Integer valor) {
-		List<Nota> troco = new ArrayList<>();
+
+	public static Troco criar() {
+		return new Troco();
+	}
+
+	public Notas buscarTroco(Integer valor) throws TrocoException {
+	    if(valor < 0) throw new TrocoException(TrocoException.VALOR_NEGATIVO);
+		Notas troco = Notas.criar();
 		for(Nota nota: notasDisponiveis) {
-			if(nota.ehMenor(valor)) {
+			while(nota.ehMenor(valor)) {
 				troco.add(nota);
 				valor -= nota.getValor();
 			}
 		}
+		if(valor != 0) {
+		    throw new TrocoException(TrocoException.TROCO_NAO_ENCONTRADO);
+        }
 		return troco;
 	}
 }
