@@ -1,4 +1,4 @@
-package exercicio;
+package exercicio.um;
 
 public class ListaException extends Exception {
 

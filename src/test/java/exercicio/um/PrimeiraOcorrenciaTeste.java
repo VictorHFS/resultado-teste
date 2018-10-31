@@ -1,5 +1,7 @@
-package exercicio;
+package exercicio.um;
 
+import exercicio.um.ListaException;
+import exercicio.um.ManipuladorDeLista;
 import junit.framework.Assert;
 import org.junit.Test;
 
@@ -9,7 +11,7 @@ import java.util.List;
 public class PrimeiraOcorrenciaTeste {
 
     @Test
-    public void valor3Teste() throws ListaException {
+    public void valorTresTeste() throws ListaException {
         List<Integer> lista = Arrays.asList(new Integer[] {2, 3, 3, 1, 5, 2});
         ManipuladorDeLista manipulador = new ManipuladorDeLista();
         Integer valor = manipulador.buscarPrimeiroValorDuplicado(lista);
@@ -18,7 +20,7 @@ public class PrimeiraOcorrenciaTeste {
 
 
     @Test
-    public void valor2Teste() throws ListaException {
+    public void valorDoisTeste() throws ListaException {
         List<Integer> lista = Arrays.asList(new Integer[] {2, 3, 1, 5, 2, 3});
         ManipuladorDeLista manipulador = new ManipuladorDeLista();
         Integer valor = manipulador.buscarPrimeiroValorDuplicado(lista);
