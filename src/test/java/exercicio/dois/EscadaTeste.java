@@ -23,7 +23,6 @@ public class EscadaTeste {
     @Test
     public void printEscadaDezTeste() throws PrinterException, EscadaException {
         Escada escada = new Escada(10);
-        Printer.print(escada.toString());
         String[] linhas = escada.toString().split("\n");
         assertTrue(validador.asteriscosSaoValidos(linhas));
         assertTrue(validador.vazioSaoValidos(linhas));
@@ -33,7 +32,6 @@ public class EscadaTeste {
     public void valorMenorQueDoisTeste() throws PrinterException {
         try {
             Escada escada = new Escada(-10);
-            Printer.print(escada.toString());
         } catch (EscadaException e) {
             assertTrue(e.getMessage().equals(EscadaException.VALOR_MENOR_QUE_DOIS));
         }
