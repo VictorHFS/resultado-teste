@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a32cfa0-ce62-4371-9eab-1ce5cbe21330" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/java/exercicio/cinco/TextoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,27 +85,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="20" />
-          <entry key="java" value="4758" />
+          <entry key="dummy" value="25" />
+          <entry key="java" value="5047" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4758" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="JAVA" value="5047" />
+          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="24" />
+          <entry key="java" value="32" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="32" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -119,40 +117,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/TextoException.java">
+        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/um/ManipuladorDeLista.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/ListaException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/dois/EscadaException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java">
+        <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/um/ListaException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="11" column="76" lean-forward="true" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
-              <folding>
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -167,6 +185,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -200,8 +219,6 @@
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/Troco.java" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/Valor.java" />
         <option value="$PROJECT_DIR$/../pom.xml" />
-        <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java" />
-        <option value="$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/quatro/Nota.java" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/quatro/Notas.java" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/quatro/TrocoException.java" />
@@ -211,6 +228,10 @@
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/cinco/TextoException.java" />
         <option value="$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java" />
         <option value="$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java" />
+        <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/Removedor.java" />
+        <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/ListaException.java" />
+        <option value="$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java" />
+        <option value="$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java" />
       </list>
     </option>
   </component>
@@ -273,22 +294,16 @@
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="." type="b2602c69:ProjectViewProjectNode" />
-              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="exercicio" type="462c0819:PsiDirectoryNode" />
+              <item name="tres" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="resultado-teste" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,7 +313,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541029325330" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541030609300" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -314,6 +329,7 @@
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="exercicio.tres" />
       <recent name="exercicio.cinco" />
       <recent name="exercicio.quatro" />
       <recent name="exercicio.dois" />
@@ -337,6 +353,36 @@
       <module name="resultado-teste" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="resultado-teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio.tres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercicio.tres" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.tres.ListaTeste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaTeste.listaVaziaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="resultado-teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio.tres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercicio.tres" />
+      <option name="MAIN_CLASS_NAME" value="exercicio.tres.ListaTeste" />
+      <option name="METHOD_NAME" value="listaVaziaTeste" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -371,52 +417,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextoOcorrenciaTeste.encontrarTresOcorrenciasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="resultado-teste" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio.cinco.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercicio.cinco" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.TextoOcorrenciaTeste" />
-      <option name="METHOD_NAME" value="encontrarTresOcorrenciasTeste" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextoOcorrenciaTeste.encontrarUmaOcorrenciaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="resultado-teste" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicio.cinco.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="exercicio.cinco" />
-      <option name="MAIN_CLASS_NAME" value="exercicio.cinco.TextoOcorrenciaTeste" />
-      <option name="METHOD_NAME" value="encontrarUmaOcorrenciaTeste" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
-      <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarTresOcorrenciasTeste" />
       <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
       <item itemvalue="JUnit.TextoOcorrenciaTeste" />
       <item itemvalue="JUnit.All in resultado-teste" />
+      <item itemvalue="JUnit.ListaTeste.listaVaziaTeste" />
+      <item itemvalue="JUnit.ListaTeste" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in resultado-teste" />
+        <item itemvalue="JUnit.ListaTeste" />
+        <item itemvalue="JUnit.ListaTeste.listaVaziaTeste" />
         <item itemvalue="JUnit.TextoOcorrenciaTeste" />
         <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarQuatroOcorrenciasTeste" />
-        <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarTresOcorrenciasTeste" />
-        <item itemvalue="JUnit.TextoOcorrenciaTeste.encontrarUmaOcorrenciaTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -434,27 +448,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OcorrenciaTeste_encontrarDuasOcorrenciaTeste - 2018.10.31 at 21h 28m 44s.xml">
-      <configuration name="OcorrenciaTeste.encontrarDuasOcorrenciaTeste" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OcorrenciaTeste_encontrarUmaOcorrenciaTeste - 2018.10.31 at 21h 28m 48s.xml">
-      <configuration name="OcorrenciaTeste.encontrarUmaOcorrenciaTeste" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OcorrenciaTeste_encontrarUmaOcorrenciaTeste - 2018.10.31 at 21h 29m 08s.xml">
-      <configuration name="OcorrenciaTeste.encontrarUmaOcorrenciaTeste" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 30m 50s.xml">
-      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 31m 23s.xml">
-      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 32m 09s.xml">
-      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OcorrenciaTeste_encontrarTresOcorrenciasTeste - 2018.10.31 at 21h 32m 39s.xml">
-      <configuration name="OcorrenciaTeste.encontrarTresOcorrenciasTeste" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OcorrenciaTeste_encontrarQuatroOcorrenciasTeste - 2018.10.31 at 21h 32m 51s.xml">
       <configuration name="OcorrenciaTeste.encontrarQuatroOcorrenciasTeste" configurationId="JUnit" />
     </history-entry>
@@ -464,12 +457,33 @@
     <history-entry file="OcorrenciaTeste - 2018.10.31 at 21h 39m 10s.xml">
       <configuration name="OcorrenciaTeste" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_resultado-teste - 2018.10.31 at 21h 41m 34s.xml">
+      <configuration name="All in resultado-teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_resultado-teste - 2018.10.31 at 21h 42m 07s.xml">
+      <configuration name="All in resultado-teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_resultado-teste - 2018.10.31 at 21h 47m 37s.xml">
+      <configuration name="All in resultado-teste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListaTeste_listaVaziaTeste - 2018.10.31 at 21h 55m 43s.xml">
+      <configuration name="ListaTeste.listaVaziaTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListaTeste_listaVaziaTeste - 2018.10.31 at 21h 56m 28s.xml">
+      <configuration name="ListaTeste.listaVaziaTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListaTeste - 2018.10.31 at 21h 57m 24s.xml">
+      <configuration name="ListaTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListaTeste - 2018.10.31 at 22h 00m 16s.xml">
+      <configuration name="ListaTeste" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,7 +492,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50121653" side_tool="true" weight="0.24980047" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36378467" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36378467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,20 +581,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../src/test/java/EscadaTeste.java" />
     <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/DegrauBuilder.java" />
-    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/um/ManipuladorDeLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/um/ListaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/dois/Escada.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -599,13 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/dois/EscadaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -679,35 +672,6 @@
           <folding>
             <element signature="e#7861#7862#0" expanded="true" />
             <element signature="e#7914#7915#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -802,13 +766,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java">
+    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/cinco/TextoOcorrenciaTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="11" column="76" lean-forward="true" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+        <state relative-caret-position="15">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -824,13 +787,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/cinco/OcorrenciaTeste.java">
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/cinco/Texto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="127">
+          <caret line="11" column="76" lean-forward="true" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/um/ManipuladorDeLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/Removedor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/test/java/exercicio/tres/ListaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/um/ListaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/dois/EscadaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/java/exercicio/tres/ListaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
