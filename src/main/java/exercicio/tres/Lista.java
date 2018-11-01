@@ -3,7 +3,8 @@ package exercicio.tres;
 public class Lista{
     private Integer[] lista;
 
-    private Lista(Integer[] lista) {
+    private Lista(Integer[] lista) throws ListaException {
+        if(lista == null || lista.length == 0) throw new ListaException(ListaException.LISTA_VAZIA);
         this.lista = lista;
     }
     public void remover(Integer valor){
@@ -67,5 +68,5 @@ public class Lista{
         return builder.toString();
     }
 
-    public static Lista criar(Integer[] valores) { return new Lista(valores);}
+    public static Lista criar(Integer[] valores) throws ListaException { return new Lista(valores);}
 }
